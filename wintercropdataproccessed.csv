@@ -1,149 +1,149 @@
-,Year,Category,Value
-0,1989,Wheat_Area,9 004
-1,1990,Wheat_Area,9 218.2
-2,1991,Wheat_Area,7 183.0
-3,1992,Wheat_Area,8 274.7
-4,1993,Wheat_Area,8 383.1
-5,1994,Wheat_Area,7 890.6
-6,1995,Wheat_Area,9 220.8
-7,1996,Wheat_Area,10 935.5
-8,1997,Wheat_Area,10 440.6
-9,1998,Wheat_Area,11 542.6
-10,1999,Wheat_Area,12 167.6
-11,2000,Wheat_Area,12 141.3
-12,2001,Wheat_Area,11 529.3
-13,2002,Wheat_Area,11 170.3
-14,2003,Wheat_Area,13 067.1
-15,2004,Wheat_Area,13 399.4
-16,2005,Wheat_Area,12 442.6
-17,2006,Wheat_Area,11 797.9
-18,2007,Wheat_Area,12 578.2
-19,2008,Wheat_Area,13 530.2
-20,2009,Wheat_Area,13 881.1
-21,2010,Wheat_Area,13 501.8
-22,2011,Wheat_Area,13 902.1
-23,2012,Wheat_Area,12 979.2
-24,2013,Wheat_Area,12 613.1
-25,2014,Wheat_Area,12 383.7
-26,2015,Wheat_Area,11 282.2
-27,2016,Wheat_Area,12 191.2
-28,2017,Wheat_Area,10 919.2
-29,2018,Wheat_Area,10 402.3
-30,2019,Wheat_Area,9 863.2
-31,2020,Wheat_Area,12 643.2
-32,2021,Wheat_Area,12 728.3
-33,2022,Wheat_Area,13 045.0
-34,2023,Wheat_Area,12 372.4
-35,2024,Wheat_Area,13 010.3
-36,1989,Wheat_Production,14 215
-37,1990,Wheat_Production,15 066.1
-38,1991,Wheat_Production,10 557.3
-39,1992,Wheat_Production,14 738.7
-40,1993,Wheat_Production,16 479.2
-41,1994,Wheat_Production,8 961.4
-42,1995,Wheat_Production,16 503.9
-43,1996,Wheat_Production,22 924.2
-44,1997,Wheat_Production,19 226.7
-45,1998,Wheat_Production,21 464.8
-46,1999,Wheat_Production,24 757.4
-47,2000,Wheat_Production,22 108.2
-48,2001,Wheat_Production,24 299.4
-49,2002,Wheat_Production,10 131.8
-50,2003,Wheat_Production,26 131.8
-51,2004,Wheat_Production,21 905.1
-52,2005,Wheat_Production,25 150.4
-53,2006,Wheat_Production,10 821.7
-54,2007,Wheat_Production,13 569.4
-55,2008,Wheat_Production,21 420.1
-56,2009,Wheat_Production,21 834.0
-57,2010,Wheat_Production,27 410.0
-58,2011,Wheat_Production,29 905.0
-59,2012,Wheat_Production,22 855.2
-60,2013,Wheat_Production,25 302.7
-61,2014,Wheat_Production,23 742.6
-62,2015,Wheat_Production,22 274.5
-63,2016,Wheat_Production,31 818.7
-64,2017,Wheat_Production,20 941.1
-65,2018,Wheat_Production,17 597.6
-66,2019,Wheat_Production,14 480.2
-67,2020,Wheat_Production,31 922.6
-68,2021,Wheat_Production,36 237.5
-69,2022,Wheat_Production,40 545.4
-70,2023,Wheat_Production,25 960.0
-71,2024,Wheat_Production,31 830.4
-72,1989,Barley _Area,2 310
-73,1990,Barley _Area,2 555.7
-74,1991,Barley _Area,2 744.2
-75,1992,Barley _Area,2 947.2
-76,1993,Barley _Area,3 424.5
-77,1994,Barley _Area,2 470.5
-78,1995,Barley _Area,3 110.6
-79,1996,Barley _Area,3 365.8
-80,1997,Barley _Area,3 520.9
-81,1998,Barley _Area,3 167.3
-82,1999,Barley _Area,2 595.6
-83,2000,Barley _Area,3 454.0
-84,2001,Barley _Area,3 707.4
-85,2002,Barley _Area,3 863.8
-86,2003,Barley _Area,4 477.0
-87,2004,Barley _Area,4 645.7
-88,2005,Barley _Area,4 405.7
-89,2006,Barley _Area,4 178.8
-90,2007,Barley _Area,4 901.8
-91,2008,Barley _Area,5 015.0
-92,2009,Barley _Area,4 421.6
-93,2010,Barley _Area,3 681.0
-94,2011,Barley _Area,3 718.1
-95,2012,Barley _Area,3 644.3
-96,2013,Barley _Area,3 814.0
-97,2014,Barley _Area,4 078.0
-98,2015,Barley _Area,4 107.6
-99,2016,Barley _Area,4 834.1
-100,2017,Barley _Area,4 124.1
-101,2018,Barley _Area,4 436.6
-102,2019,Barley _Area,5 040.9
-103,2020,Barley _Area,5 491.0
-104,2021,Barley _Area,5 094.5
-105,2022,Barley _Area,4 127.0
-106,2023,Barley _Area,4 207.0
-107,2024,Barley _Area,4 446.2
-108,1989,Barley _Production,4 044
-109,1990,Barley _Production,4 107.8
-110,1991,Barley _Production,4 529.7
-111,1992,Barley _Production,5 396.8
-112,1993,Barley _Production,6 668.2
-113,1994,Barley _Production,2 913.2
-114,1995,Barley _Production,5 822.7
-115,1996,Barley _Production,6 694.8
-116,1997,Barley _Production,6 481.7
-117,1998,Barley _Production,5 987.2
-118,1999,Barley _Production,5 032.0
-119,2000,Barley _Production,6 743.5
-120,2001,Barley _Production,8 279.8
-121,2002,Barley _Production,3 864.8
-122,2003,Barley _Production,10 381.8
-123,2004,Barley _Production,7 739.8
-124,2005,Barley _Production,9 481.7
-125,2006,Barley _Production,4 257.0
-126,2007,Barley _Production,7 160.2
-127,2008,Barley _Production,7 996.5
-128,2009,Barley _Production,7 864.6
-129,2010,Barley _Production,7 994.7
-130,2011,Barley _Production,8 220.9
-131,2012,Barley _Production,7 471.4
-132,2013,Barley _Production,9 174.2
-133,2014,Barley _Production,8 646.3
-134,2015,Barley _Production,8 992.3
-135,2016,Barley _Production,13 506.0
-136,2017,Barley _Production,9 253.8
-137,2018,Barley _Production,8 818.9
-138,2019,Barley _Production,10 127.2
-139,2020,Barley _Production,14 648.6
-140,2021,Barley _Production,14 377.3
-141,2022,Barley _Production,14 136.8
-142,2023,Barley _Production,10 800.0
-143,2024,Barley _Production,12 160.1
-144,1989,Canola _Area,50
+,Year,Category,value
+0,1989,Wheat_Area,9004.0
+1,1990,Wheat_Area,9218.2
+2,1991,Wheat_Area,7183.0
+3,1992,Wheat_Area,8274.7
+4,1993,Wheat_Area,8383.1
+5,1994,Wheat_Area,7890.6
+6,1995,Wheat_Area,9220.8
+7,1996,Wheat_Area,10935.5
+8,1997,Wheat_Area,10440.6
+9,1998,Wheat_Area,11542.6
+10,1999,Wheat_Area,12167.6
+11,2000,Wheat_Area,12141.3
+12,2001,Wheat_Area,11529.3
+13,2002,Wheat_Area,11170.3
+14,2003,Wheat_Area,13067.1
+15,2004,Wheat_Area,13399.4
+16,2005,Wheat_Area,12442.6
+17,2006,Wheat_Area,11797.9
+18,2007,Wheat_Area,12578.2
+19,2008,Wheat_Area,13530.2
+20,2009,Wheat_Area,13881.1
+21,2010,Wheat_Area,13501.8
+22,2011,Wheat_Area,13902.1
+23,2012,Wheat_Area,12979.2
+24,2013,Wheat_Area,12613.1
+25,2014,Wheat_Area,12383.7
+26,2015,Wheat_Area,11282.2
+27,2016,Wheat_Area,12191.2
+28,2017,Wheat_Area,10919.2
+29,2018,Wheat_Area,10402.3
+30,2019,Wheat_Area,9863.2
+31,2020,Wheat_Area,12643.2
+32,2021,Wheat_Area,12728.3
+33,2022,Wheat_Area,13045.0
+34,2023,Wheat_Area,12372.4
+35,2024,Wheat_Area,13010.3
+36,1989,Wheat_Production,14215.0
+37,1990,Wheat_Production,15066.1
+38,1991,Wheat_Production,10557.3
+39,1992,Wheat_Production,14738.7
+40,1993,Wheat_Production,16479.2
+41,1994,Wheat_Production,8961.4
+42,1995,Wheat_Production,16503.9
+43,1996,Wheat_Production,22924.2
+44,1997,Wheat_Production,19226.7
+45,1998,Wheat_Production,21464.8
+46,1999,Wheat_Production,24757.4
+47,2000,Wheat_Production,22108.2
+48,2001,Wheat_Production,24299.4
+49,2002,Wheat_Production,10131.8
+50,2003,Wheat_Production,26131.8
+51,2004,Wheat_Production,21905.1
+52,2005,Wheat_Production,25150.4
+53,2006,Wheat_Production,10821.7
+54,2007,Wheat_Production,13569.4
+55,2008,Wheat_Production,21420.1
+56,2009,Wheat_Production,21834.0
+57,2010,Wheat_Production,27410.0
+58,2011,Wheat_Production,29905.0
+59,2012,Wheat_Production,22855.2
+60,2013,Wheat_Production,25302.7
+61,2014,Wheat_Production,23742.6
+62,2015,Wheat_Production,22274.5
+63,2016,Wheat_Production,31818.7
+64,2017,Wheat_Production,20941.1
+65,2018,Wheat_Production,17597.6
+66,2019,Wheat_Production,14480.2
+67,2020,Wheat_Production,31922.6
+68,2021,Wheat_Production,36237.5
+69,2022,Wheat_Production,40545.4
+70,2023,Wheat_Production,25960.0
+71,2024,Wheat_Production,31830.4
+72,1989,Barley _Area,2310.0
+73,1990,Barley _Area,2555.7
+74,1991,Barley _Area,2744.2
+75,1992,Barley _Area,2947.2
+76,1993,Barley _Area,3424.5
+77,1994,Barley _Area,2470.5
+78,1995,Barley _Area,3110.6
+79,1996,Barley _Area,3365.8
+80,1997,Barley _Area,3520.9
+81,1998,Barley _Area,3167.3
+82,1999,Barley _Area,2595.6
+83,2000,Barley _Area,3454.0
+84,2001,Barley _Area,3707.4
+85,2002,Barley _Area,3863.8
+86,2003,Barley _Area,4477.0
+87,2004,Barley _Area,4645.7
+88,2005,Barley _Area,4405.7
+89,2006,Barley _Area,4178.8
+90,2007,Barley _Area,4901.8
+91,2008,Barley _Area,5015.0
+92,2009,Barley _Area,4421.6
+93,2010,Barley _Area,3681.0
+94,2011,Barley _Area,3718.1
+95,2012,Barley _Area,3644.3
+96,2013,Barley _Area,3814.0
+97,2014,Barley _Area,4078.0
+98,2015,Barley _Area,4107.6
+99,2016,Barley _Area,4834.1
+100,2017,Barley _Area,4124.1
+101,2018,Barley _Area,4436.6
+102,2019,Barley _Area,5040.9
+103,2020,Barley _Area,5491.0
+104,2021,Barley _Area,5094.5
+105,2022,Barley _Area,4127.0
+106,2023,Barley _Area,4207.0
+107,2024,Barley _Area,4446.2
+108,1989,Barley _Production,4044.0
+109,1990,Barley _Production,4107.8
+110,1991,Barley _Production,4529.7
+111,1992,Barley _Production,5396.8
+112,1993,Barley _Production,6668.2
+113,1994,Barley _Production,2913.2
+114,1995,Barley _Production,5822.7
+115,1996,Barley _Production,6694.8
+116,1997,Barley _Production,6481.7
+117,1998,Barley _Production,5987.2
+118,1999,Barley _Production,5032.0
+119,2000,Barley _Production,6743.5
+120,2001,Barley _Production,8279.8
+121,2002,Barley _Production,3864.8
+122,2003,Barley _Production,10381.8
+123,2004,Barley _Production,7739.8
+124,2005,Barley _Production,9481.7
+125,2006,Barley _Production,4257.0
+126,2007,Barley _Production,7160.2
+127,2008,Barley _Production,7996.5
+128,2009,Barley _Production,7864.6
+129,2010,Barley _Production,7994.7
+130,2011,Barley _Production,8220.9
+131,2012,Barley _Production,7471.4
+132,2013,Barley _Production,9174.2
+133,2014,Barley _Production,8646.3
+134,2015,Barley _Production,8992.3
+135,2016,Barley _Production,13506.0
+136,2017,Barley _Production,9253.8
+137,2018,Barley _Production,8818.9
+138,2019,Barley _Production,10127.2
+139,2020,Barley _Production,14648.6
+140,2021,Barley _Production,14377.3
+141,2022,Barley _Production,14136.8
+142,2023,Barley _Production,10800.0
+143,2024,Barley _Production,12160.1
+144,1989,Canola _Area,50.0
 145,1990,Canola _Area,72.9
 146,1991,Canola _Area,150.7
 147,1992,Canola _Area,107.1
@@ -152,70 +152,70 @@
 150,1995,Canola _Area,376.6
 151,1996,Canola _Area,407.5
 152,1997,Canola _Area,697.5
-153,1998,Canola _Area,1 247.2
-154,1999,Canola _Area,1 909.5
-155,2000,Canola _Area,1 458.6
-156,2001,Canola _Area,1 331.5
-157,2002,Canola _Area,1 297.1
-158,2003,Canola _Area,1 210.6
-159,2004,Canola _Area,1 377.1
+153,1998,Canola _Area,1247.2
+154,1999,Canola _Area,1909.5
+155,2000,Canola _Area,1458.6
+156,2001,Canola _Area,1331.5
+157,2002,Canola _Area,1297.1
+158,2003,Canola _Area,1210.6
+159,2004,Canola _Area,1377.1
 160,2005,Canola _Area,971.7
-161,2006,Canola _Area,1 051.8
-162,2007,Canola _Area,1 277.1
-163,2008,Canola _Area,1 692.6
-164,2009,Canola _Area,1 694.9
-165,2010,Canola _Area,2 077.5
-166,2011,Canola _Area,2 460.8
-167,2012,Canola _Area,3 271.5
-168,2013,Canola _Area,2 720.7
-169,2014,Canola _Area,2 897.0
-170,2015,Canola _Area,2 090.9
-171,2016,Canola _Area,2 681.2
-172,2017,Canola _Area,3 171.1
-173,2018,Canola _Area,2 119.8
-174,2019,Canola _Area,2 034.1
-175,2020,Canola _Area,2 613.8
-176,2021,Canola _Area,3 250.3
-177,2022,Canola _Area,3 900.0
-178,2023,Canola _Area,3 477.0
-179,2024,Canola _Area,3 236.7
-180,1989,Canola _Production,78
+161,2006,Canola _Area,1051.8
+162,2007,Canola _Area,1277.1
+163,2008,Canola _Area,1692.6
+164,2009,Canola _Area,1694.9
+165,2010,Canola _Area,2077.5
+166,2011,Canola _Area,2460.8
+167,2012,Canola _Area,3271.5
+168,2013,Canola _Area,2720.7
+169,2014,Canola _Area,2897.0
+170,2015,Canola _Area,2090.9
+171,2016,Canola _Area,2681.2
+172,2017,Canola _Area,3171.1
+173,2018,Canola _Area,2119.8
+174,2019,Canola _Area,2034.1
+175,2020,Canola _Area,2613.8
+176,2021,Canola _Area,3250.3
+177,2022,Canola _Area,3900.0
+178,2023,Canola _Area,3477.0
+179,2024,Canola _Area,3236.7
+180,1989,Canola _Production,78.0
 181,1990,Canola _Production,98.4
 182,1991,Canola _Production,170.4
 183,1992,Canola _Production,177.9
-184,1993,Canola _Production,305
+184,1993,Canola _Production,305.0
 185,1994,Canola _Production,263.9
 186,1995,Canola _Production,557.1
 187,1996,Canola _Production,623.2
 188,1997,Canola _Production,855.4
-189,1998,Canola _Production,1 690.5
-190,1999,Canola _Production,2 458.7
-191,2000,Canola _Production,1 774.1
-192,2001,Canola _Production,1 755.9
+189,1998,Canola _Production,1690.5
+190,1999,Canola _Production,2458.7
+191,2000,Canola _Production,1774.1
+192,2001,Canola _Production,1755.9
 193,2002,Canola _Production,870.1
-194,2003,Canola _Production,1 702.3
-195,2004,Canola _Production,1 542.3
-196,2005,Canola _Production,1 418.9
+194,2003,Canola _Production,1702.3
+195,2004,Canola _Production,1542.3
+196,2005,Canola _Production,1418.9
 197,2006,Canola _Production,573.3
-198,2007,Canola _Production,1 214.4
-199,2008,Canola _Production,1 844.2
-200,2009,Canola _Production,1 907.3
-201,2010,Canola _Production,2 358.7
-202,2011,Canola _Production,3 427.3
-203,2012,Canola _Production,4 141.6
-204,2013,Canola _Production,3 831.9
-205,2014,Canola _Production,3 540.0
-206,2015,Canola _Production,2 775.5
-207,2016,Canola _Production,4 313.2
-208,2017,Canola _Production,3 893.1
-209,2018,Canola _Production,2 365.8
-210,2019,Canola _Production,2 298.5
-211,2020,Canola _Production,4 756.4
-212,2021,Canola _Production,6 820.3
-213,2022,Canola _Production,8 272.5
-214,2023,Canola _Production,5 936.0
-215,2024,Canola _Production,5 472.1
-216,1989,Chickpeas   _Area,93
+198,2007,Canola _Production,1214.4
+199,2008,Canola _Production,1844.2
+200,2009,Canola _Production,1907.3
+201,2010,Canola _Production,2358.7
+202,2011,Canola _Production,3427.3
+203,2012,Canola _Production,4141.6
+204,2013,Canola _Production,3831.9
+205,2014,Canola _Production,3540.0
+206,2015,Canola _Production,2775.5
+207,2016,Canola _Production,4313.2
+208,2017,Canola _Production,3893.1
+209,2018,Canola _Production,2365.8
+210,2019,Canola _Production,2298.5
+211,2020,Canola _Production,4756.4
+212,2021,Canola _Production,6820.3
+213,2022,Canola _Production,8272.5
+214,2023,Canola _Production,5936.0
+215,2024,Canola _Production,5472.1
+216,1989,Chickpeas   _Area,93.0
 217,1990,Chickpeas   _Area,178.1
 218,1991,Chickpeas   _Area,249.7
 219,1992,Chickpeas   _Area,151.8
@@ -223,9 +223,9 @@
 221,1994,Chickpeas   _Area,208.9
 222,1995,Chickpeas   _Area,216.4
 223,1996,Chickpeas   _Area,241.5
-224,1997,Chickpeas   _Area,273
+224,1997,Chickpeas   _Area,273.0
 225,1998,Chickpeas   _Area,308.5
-226,1999,Chickpeas   _Area,218
+226,1999,Chickpeas   _Area,218.0
 227,2000,Chickpeas   _Area,261.6
 228,2001,Chickpeas   _Area,244.9
 229,2002,Chickpeas   _Area,201.2
@@ -233,25 +233,25 @@
 231,2004,Chickpeas   _Area,110.2
 232,2005,Chickpeas   _Area,131.3
 233,2006,Chickpeas   _Area,284.1
-234,2007,Chickpeas   _Area,306
+234,2007,Chickpeas   _Area,306.0
 235,2008,Chickpeas   _Area,338.2
-236,2009,Chickpeas   _Area,429
+236,2009,Chickpeas   _Area,429.0
 237,2010,Chickpeas   _Area,653.1
 238,2011,Chickpeas   _Area,456.1
 239,2012,Chickpeas   _Area,573.6
 240,2013,Chickpeas   _Area,507.8
 241,2014,Chickpeas   _Area,424.8
 242,2015,Chickpeas   _Area,677.4
-243,2016,Chickpeas   _Area,1 069.0
-244,2017,Chickpeas   _Area,1 075.1
+243,2016,Chickpeas   _Area,1069.0
+244,2017,Chickpeas   _Area,1075.1
 245,2018,Chickpeas   _Area,293.9
 246,2019,Chickpeas   _Area,309.2
 247,2020,Chickpeas   _Area,606.3
 248,2021,Chickpeas   _Area,615.8
 249,2022,Chickpeas   _Area,397.5
-250,2023,Chickpeas   _Area,409
+250,2023,Chickpeas   _Area,409.0
 251,2024,Chickpeas   _Area,768.5
-252,1989,Chickpeas  _Production,109
+252,1989,Chickpeas  _Production,109.0
 253,1990,Chickpeas  _Production,191.7
 254,1991,Chickpeas  _Production,221.9
 255,1992,Chickpeas  _Production,176.9
@@ -261,7 +261,7 @@
 259,1996,Chickpeas  _Production,287.7
 260,1997,Chickpeas  _Production,198.6
 261,1998,Chickpeas  _Production,187.6
-262,1999,Chickpeas  _Production,230
+262,1999,Chickpeas  _Production,230.0
 263,2000,Chickpeas  _Production,162.5
 264,2001,Chickpeas  _Production,273.4
 265,2002,Chickpeas  _Production,128.7
@@ -269,28 +269,28 @@
 267,2004,Chickpeas  _Production,135.2
 268,2005,Chickpeas  _Production,149.7
 269,2006,Chickpeas  _Production,229.2
-270,2007,Chickpeas  _Production,313
+270,2007,Chickpeas  _Production,313.0
 271,2008,Chickpeas  _Production,442.5
-272,2009,Chickpeas  _Production,487
+272,2009,Chickpeas  _Production,487.0
 273,2010,Chickpeas  _Production,513.4
 274,2011,Chickpeas  _Production,673.4
 275,2012,Chickpeas  _Production,813.3
 276,2013,Chickpeas  _Production,629.4
 277,2014,Chickpeas  _Production,555.4
 278,2015,Chickpeas  _Production,874.6
-279,2016,Chickpeas  _Production,2 004.0
+279,2016,Chickpeas  _Production,2004.0
 280,2017,Chickpeas  _Production,998.2
 281,2018,Chickpeas  _Production,205.1
 282,2019,Chickpeas  _Production,235.2
 283,2020,Chickpeas  _Production,876.5
-284,2021,Chickpeas  _Production,1 062.3
-285,2022,Chickpeas  _Production,541
+284,2021,Chickpeas  _Production,1062.3
+285,2022,Chickpeas  _Production,541.0
 286,2023,Chickpeas  _Production,491.2
-287,2024,Chickpeas  _Production,1 333.0
-288,1989,Faba beans  _Area,45
+287,2024,Chickpeas  _Production,1333.0
+288,1989,Faba beans  _Area,45.0
 289,1990,Faba beans  _Area,43.9
 290,1991,Faba beans  _Area,58.1
-291,1992,Faba beans  _Area,82
+291,1992,Faba beans  _Area,82.0
 292,1993,Faba beans  _Area,93.7
 293,1994,Faba beans  _Area,100.6
 294,1995,Faba beans  _Area,80.4
@@ -299,15 +299,15 @@
 297,1998,Faba beans  _Area,135.3
 298,1999,Faba beans  _Area,125.3
 299,2000,Faba beans  _Area,206.3
-300,2001,Faba beans  _Area,180
-301,2002,Faba beans  _Area,157
-302,2003,Faba beans  _Area,155
+300,2001,Faba beans  _Area,180.0
+301,2002,Faba beans  _Area,157.0
+302,2003,Faba beans  _Area,155.0
 303,2004,Faba beans  _Area,194.5
-304,2005,Faba beans  _Area,183
+304,2005,Faba beans  _Area,183.0
 305,2006,Faba beans  _Area,186.6
 306,2007,Faba beans  _Area,132.5
 307,2008,Faba beans  _Area,125.3
-308,2009,Faba beans  _Area,129
+308,2009,Faba beans  _Area,129.0
 309,2010,Faba beans  _Area,162.6
 310,2011,Faba beans  _Area,151.4
 311,2012,Faba beans  _Area,202.9
@@ -316,17 +316,17 @@
 314,2015,Faba beans  _Area,220.3
 315,2016,Faba beans  _Area,232.7
 316,2017,Faba beans  _Area,313.1
-317,2018,Faba beans  _Area,234
+317,2018,Faba beans  _Area,234.0
 318,2019,Faba beans  _Area,214.9
 319,2020,Faba beans  _Area,302.1
 320,2021,Faba beans  _Area,287.5
-321,2022,Faba beans  _Area,305
+321,2022,Faba beans  _Area,305.0
 322,2023,Faba beans  _Area,264.1
 323,2024,Faba beans  _Area,258.5
-324,1989,Faba beans  _Production,58
+324,1989,Faba beans  _Production,58.0
 325,1990,Faba beans  _Production,53.1
 326,1991,Faba beans  _Production,64.4
-327,1992,Faba beans  _Production,99
+327,1992,Faba beans  _Production,99.0
 328,1993,Faba beans  _Production,148.8
 329,1994,Faba beans  _Production,67.2
 330,1995,Faba beans  _Production,127.7
@@ -335,13 +335,13 @@
 333,1998,Faba beans  _Production,194.3
 334,1999,Faba beans  _Production,165.8
 335,2000,Faba beans  _Production,324.9
-336,2001,Faba beans  _Production,350
-337,2002,Faba beans  _Production,108
-338,2003,Faba beans  _Production,277
+336,2001,Faba beans  _Production,350.0
+337,2002,Faba beans  _Production,108.0
+338,2003,Faba beans  _Production,277.0
 339,2004,Faba beans  _Production,167.5
-340,2005,Faba beans  _Production,329
-341,2006,Faba beans  _Production,107
-342,2007,Faba beans  _Production,138
+340,2005,Faba beans  _Production,329.0
+341,2006,Faba beans  _Production,107.0
+342,2007,Faba beans  _Production,138.0
 343,2008,Faba beans  _Production,134.7
 344,2009,Faba beans  _Production,217.3
 345,2010,Faba beans  _Production,324.4
@@ -353,14 +353,14 @@
 351,2016,Faba beans  _Production,483.6
 352,2017,Faba beans  _Production,415.6
 353,2018,Faba beans  _Production,233.4
-354,2019,Faba beans  _Production,313
+354,2019,Faba beans  _Production,313.0
 355,2020,Faba beans  _Production,679.8
 356,2021,Faba beans  _Production,646.2
-357,2022,Faba beans  _Production,635
+357,2022,Faba beans  _Production,635.0
 358,2023,Faba beans  _Production,553.9
 359,2024,Faba beans  _Production,510.5
-360,1989,Field peas  _Area,326
-361,1990,Field peas  _Area,318
+360,1989,Field peas  _Area,326.0
+361,1990,Field peas  _Area,318.0
 362,1991,Field peas  _Area,426.5
 363,1992,Field peas  _Area,382.3
 364,1993,Field peas  _Area,399.8
@@ -384,18 +384,18 @@
 382,2011,Field peas  _Area,248.9
 383,2012,Field peas  _Area,280.5
 384,2013,Field peas  _Area,244.5
-385,2014,Field peas  _Area,237
+385,2014,Field peas  _Area,237.0
 386,2015,Field peas  _Area,238.1
 387,2016,Field peas  _Area,230.2
 388,2017,Field peas  _Area,291.5
 389,2018,Field peas  _Area,229.5
 390,2019,Field peas  _Area,247.6
 391,2020,Field peas  _Area,251.7
-392,2021,Field peas  _Area,192
-393,2022,Field peas  _Area,198
-394,2023,Field peas  _Area,192
-395,2024,Field peas  _Area,187
-396,1989,Field peas  _Production,388
+392,2021,Field peas  _Area,192.0
+393,2022,Field peas  _Area,198.0
+394,2023,Field peas  _Area,192.0
+395,2024,Field peas  _Area,187.0
+396,1989,Field peas  _Production,388.0
 397,1990,Field peas  _Production,318.1
 398,1991,Field peas  _Production,472.6
 399,1992,Field peas  _Production,456.3
@@ -415,7 +415,7 @@
 413,2006,Field peas  _Production,140.3
 414,2007,Field peas  _Production,267.5
 415,2008,Field peas  _Production,238.1
-416,2009,Field peas  _Production,356
+416,2009,Field peas  _Production,356.0
 417,2010,Field peas  _Production,394.7
 418,2011,Field peas  _Production,342.5
 419,2012,Field peas  _Production,319.7
@@ -429,34 +429,34 @@
 427,2020,Field peas  _Production,399.3
 428,2021,Field peas  _Production,261.1
 429,2022,Field peas  _Production,313.8
-430,2023,Field peas  _Production,228
-431,2024,Field peas  _Production,229
-432,1989,Lentils  _Area,0
+430,2023,Field peas  _Production,228.0
+431,2024,Field peas  _Production,229.0
+432,1989,Lentils  _Area,0.0
 433,1990,Lentils  _Area,0.2
 434,1991,Lentils  _Area,0.3
 435,1992,Lentils  _Area,0.5
-436,1993,Lentils  _Area,1
+436,1993,Lentils  _Area,1.0
 437,1994,Lentils  _Area,5.2
 438,1995,Lentils  _Area,6.5
 439,1996,Lentils  _Area,13.8
-440,1997,Lentils  _Area,42
+440,1997,Lentils  _Area,42.0
 441,1998,Lentils  _Area,66.2
 442,1999,Lentils  _Area,74.6
 443,2000,Lentils  _Area,101.4
-444,2001,Lentils  _Area,113
-445,2002,Lentils  _Area,165
+444,2001,Lentils  _Area,113.0
+445,2002,Lentils  _Area,165.0
 446,2003,Lentils  _Area,83.1
 447,2004,Lentils  _Area,127.3
 448,2005,Lentils  _Area,178.2
 449,2006,Lentils  _Area,207.5
 450,2007,Lentils  _Area,129.5
-451,2008,Lentils  _Area,117
-452,2009,Lentils  _Area,104
+451,2008,Lentils  _Area,117.0
+452,2009,Lentils  _Area,104.0
 453,2010,Lentils  _Area,218.8
 454,2011,Lentils  _Area,172.8
 455,2012,Lentils  _Area,165.4
 456,2013,Lentils  _Area,169.7
-457,2014,Lentils  _Area,189
+457,2014,Lentils  _Area,189.0
 458,2015,Lentils  _Area,224.9
 459,2016,Lentils  _Area,275.6
 460,2017,Lentils  _Area,418.5
@@ -465,14 +465,14 @@
 463,2020,Lentils  _Area,500.9
 464,2021,Lentils  _Area,575.2
 465,2022,Lentils  _Area,692.3
-466,2023,Lentils  _Area,790
+466,2023,Lentils  _Area,790.0
 467,2024,Lentils  _Area,927.1
-468,1989,Lentils  _Production,0
+468,1989,Lentils  _Production,0.0
 469,1990,Lentils  _Production,0.2
 470,1991,Lentils  _Production,0.5
 471,1992,Lentils  _Production,0.5
 472,1993,Lentils  _Production,1.2
-473,1994,Lentils  _Production,2
+473,1994,Lentils  _Production,2.0
 474,1995,Lentils  _Production,15.5
 475,1996,Lentils  _Production,28.3
 476,1997,Lentils  _Production,31.5
@@ -480,16 +480,16 @@
 478,1999,Lentils  _Production,115.4
 479,2000,Lentils  _Production,138.2
 480,2001,Lentils  _Production,153.5
-481,2002,Lentils  _Production,67
+481,2002,Lentils  _Production,67.0
 482,2003,Lentils  _Production,103.8
 483,2004,Lentils  _Production,52.3
 484,2005,Lentils  _Production,294.9
 485,2006,Lentils  _Production,31.8
 486,2007,Lentils  _Production,131.2
 487,2008,Lentils  _Production,64.2
-488,2009,Lentils  _Production,143
+488,2009,Lentils  _Production,143.0
 489,2010,Lentils  _Production,379.7
-490,2011,Lentils  _Production,288
+490,2011,Lentils  _Production,288.0
 491,2012,Lentils  _Production,184.7
 492,2013,Lentils  _Production,254.5
 493,2014,Lentils  _Production,242.1
@@ -500,24 +500,24 @@
 498,2019,Lentils  _Production,525.8
 499,2020,Lentils  _Production,853.6
 500,2021,Lentils  _Production,999.5
-501,2022,Lentils  _Production,1 688.8
-502,2023,Lentils  _Production,1 567.9
-503,2024,Lentils  _Production,1 685.4
-504,1989,Lupins  _Area,801
+501,2022,Lentils  _Production,1688.8
+502,2023,Lentils  _Production,1567.9
+503,2024,Lentils  _Production,1685.4
+504,1989,Lupins  _Area,801.0
 505,1990,Lupins  _Area,792.6
 506,1991,Lupins  _Area,938.5
-507,1992,Lupins  _Area,1 032.5
-508,1993,Lupins  _Area,1 150.4
-509,1994,Lupins  _Area,1 407.1
-510,1995,Lupins  _Area,1 322.8
-511,1996,Lupins  _Area,1 259.2
-512,1997,Lupins  _Area,1 424.7
-513,1998,Lupins  _Area,1 406.2
-514,1999,Lupins  _Area,1 347.1
-515,2000,Lupins  _Area,1 179.6
-516,2001,Lupins  _Area,1 138.3
-517,2002,Lupins  _Area,1 025.4
-518,2003,Lupins  _Area,852
+507,1992,Lupins  _Area,1032.5
+508,1993,Lupins  _Area,1150.4
+509,1994,Lupins  _Area,1407.1
+510,1995,Lupins  _Area,1322.8
+511,1996,Lupins  _Area,1259.2
+512,1997,Lupins  _Area,1424.7
+513,1998,Lupins  _Area,1406.2
+514,1999,Lupins  _Area,1347.1
+515,2000,Lupins  _Area,1179.6
+516,2001,Lupins  _Area,1138.3
+517,2002,Lupins  _Area,1025.4
+518,2003,Lupins  _Area,852.0
 519,2004,Lupins  _Area,844.7
 520,2005,Lupins  _Area,808.9
 521,2006,Lupins  _Area,736.4
@@ -531,31 +531,31 @@
 529,2014,Lupins  _Area,443.1
 530,2015,Lupins  _Area,534.1
 531,2016,Lupins  _Area,514.6
-532,2017,Lupins  _Area,612
+532,2017,Lupins  _Area,612.0
 533,2018,Lupins  _Area,661.1
 534,2019,Lupins  _Area,664.6
 535,2020,Lupins  _Area,603.9
 536,2021,Lupins  _Area,497.1
 537,2022,Lupins  _Area,536.4
-538,2023,Lupins  _Area,441
+538,2023,Lupins  _Area,441.0
 539,2024,Lupins  _Area,454.5
-540,1989,Lupins  _Production,772
+540,1989,Lupins  _Production,772.0
 541,1990,Lupins  _Production,757.7
-542,1991,Lupins  _Production,1 047.4
-543,1992,Lupins  _Production,1 195.0
-544,1993,Lupins  _Production,1 479.7
-545,1994,Lupins  _Production,1 076.2
-546,1995,Lupins  _Production,1 559.0
-547,1996,Lupins  _Production,1 521.9
-548,1997,Lupins  _Production,1 560.3
-549,1998,Lupins  _Production,1 694.9
-550,1999,Lupins  _Production,1 967.8
-551,2000,Lupins  _Production,1 055.3
-552,2001,Lupins  _Production,1 213.7
+542,1991,Lupins  _Production,1047.4
+543,1992,Lupins  _Production,1195.0
+544,1993,Lupins  _Production,1479.7
+545,1994,Lupins  _Production,1076.2
+546,1995,Lupins  _Production,1559.0
+547,1996,Lupins  _Production,1521.9
+548,1997,Lupins  _Production,1560.3
+549,1998,Lupins  _Production,1694.9
+550,1999,Lupins  _Production,1967.8
+551,2000,Lupins  _Production,1055.3
+552,2001,Lupins  _Production,1213.7
 553,2002,Lupins  _Production,725.9
-554,2003,Lupins  _Production,1 180.7
+554,2003,Lupins  _Production,1180.7
 555,2004,Lupins  _Production,936.9
-556,2005,Lupins  _Production,1 285.0
+556,2005,Lupins  _Production,1285.0
 557,2006,Lupins  _Production,470.3
 558,2007,Lupins  _Production,661.9
 559,2008,Lupins  _Production,707.8
@@ -566,98 +566,98 @@
 564,2013,Lupins  _Production,625.6
 565,2014,Lupins  _Production,549.1
 566,2015,Lupins  _Production,651.9
-567,2016,Lupins  _Production,1 031.4
+567,2016,Lupins  _Production,1031.4
 568,2017,Lupins  _Production,714.3
 569,2018,Lupins  _Production,798.6
 570,2019,Lupins  _Production,591.1
 571,2020,Lupins  _Production,865.6
 572,2021,Lupins  _Production,957.5
-573,2022,Lupins  _Production,1 100.8
+573,2022,Lupins  _Production,1100.8
 574,2023,Lupins  _Production,565.8
-575,2024,Lupins  _Production,644
-576,1989,Oats  _Area,1 089
-577,1990,Oats  _Area,1 043.6
-578,1991,Oats  _Area,1 160.1
-579,1992,Oats  _Area,1 149.1
+575,2024,Lupins  _Production,644.0
+576,1989,Oats  _Area,1089.0
+577,1990,Oats  _Area,1043.6
+578,1991,Oats  _Area,1160.1
+579,1992,Oats  _Area,1149.1
 580,1993,Oats  _Area,947.3
 581,1994,Oats  _Area,896.6
-582,1995,Oats  _Area,1 136.2
-583,1996,Oats  _Area,1 051.7
+582,1995,Oats  _Area,1136.2
+583,1996,Oats  _Area,1051.7
 584,1997,Oats  _Area,936.6
 585,1998,Oats  _Area,908.9
 586,1999,Oats  _Area,583.6
 587,2000,Oats  _Area,650.4
-588,2001,Oats  _Area,784
+588,2001,Oats  _Area,784.0
 589,2002,Oats  _Area,911.4
-590,2003,Oats  _Area,1 089.2
+590,2003,Oats  _Area,1089.2
 591,2004,Oats  _Area,893.6
 592,2005,Oats  _Area,930.3
 593,2006,Oats  _Area,999.5
-594,2007,Oats  _Area,1 237.8
+594,2007,Oats  _Area,1237.8
 595,2008,Oats  _Area,870.2
-596,2009,Oats  _Area,850
-597,2010,Oats  _Area,826
+596,2009,Oats  _Area,850.0
+597,2010,Oats  _Area,826.0
 598,2011,Oats  _Area,731.1
 599,2012,Oats  _Area,728.6
 600,2013,Oats  _Area,714.7
 601,2014,Oats  _Area,854.4
 602,2015,Oats  _Area,821.5
-603,2016,Oats  _Area,1 027.9
+603,2016,Oats  _Area,1027.9
 604,2017,Oats  _Area,874.1
 605,2018,Oats  _Area,938.1
-606,2019,Oats  _Area,816
-607,2020,Oats  _Area,1 069.9
+606,2019,Oats  _Area,816.0
+607,2020,Oats  _Area,1069.9
 608,2021,Oats  _Area,842.4
-609,2022,Oats  _Area,745
+609,2022,Oats  _Area,745.0
 610,2023,Oats  _Area,677.7
-611,2024,Oats  _Area,717
-612,1989,Oats_Production,1 640
-613,1990,Oats_Production,1 529.8
-614,1991,Oats_Production,1 689.8
-615,1992,Oats_Production,1 936.4
-616,1993,Oats_Production,1 646.5
+611,2024,Oats  _Area,717.0
+612,1989,Oats_Production,1640.0
+613,1990,Oats_Production,1529.8
+614,1991,Oats_Production,1689.8
+615,1992,Oats_Production,1936.4
+616,1993,Oats_Production,1646.5
 617,1994,Oats_Production,924.1
-618,1995,Oats_Production,1 874.8
-619,1996,Oats_Production,1 652.8
-620,1997,Oats_Production,1 634.3
-621,1998,Oats_Production,1 798.2
-622,1999,Oats_Production,1 117.7
-623,2000,Oats_Production,1 049.7
-624,2001,Oats_Production,1 433.5
-625,2002,Oats_Production,957
-626,2003,Oats_Production,2 017.9
-627,2004,Oats_Production,1 282.4
-628,2005,Oats_Production,1 688.0
+618,1995,Oats_Production,1874.8
+619,1996,Oats_Production,1652.8
+620,1997,Oats_Production,1634.3
+621,1998,Oats_Production,1798.2
+622,1999,Oats_Production,1117.7
+623,2000,Oats_Production,1049.7
+624,2001,Oats_Production,1433.5
+625,2002,Oats_Production,957.0
+626,2003,Oats_Production,2017.9
+627,2004,Oats_Production,1282.4
+628,2005,Oats_Production,1688.0
 629,2006,Oats_Production,748.3
-630,2007,Oats_Production,1 502.3
-631,2008,Oats_Production,1 160.0
-632,2009,Oats_Production,1 161.5
-633,2010,Oats_Production,1 127.7
-634,2011,Oats_Production,1 262.0
-635,2012,Oats_Production,1 121.1
-636,2013,Oats_Production,1 254.7
-637,2014,Oats_Production,1 198.0
-638,2015,Oats_Production,1 299.7
-639,2016,Oats_Production,2 265.5
-640,2017,Oats_Production,1 227.4
-641,2018,Oats_Production,1 134.6
-642,2019,Oats_Production,1 142.9
-643,2020,Oats_Production,1 898.0
-644,2021,Oats_Production,1 734.9
-645,2022,Oats_Production,1 587.4
-646,2023,Oats_Production,1 021.1
-647,2024,Oats_Production,1 200.0
-648,1989,Triticale _Area,91
-649,1990,Triticale _Area,104
-650,1991,Triticale _Area,101
-651,1992,Triticale _Area,122
+630,2007,Oats_Production,1502.3
+631,2008,Oats_Production,1160.0
+632,2009,Oats_Production,1161.5
+633,2010,Oats_Production,1127.7
+634,2011,Oats_Production,1262.0
+635,2012,Oats_Production,1121.1
+636,2013,Oats_Production,1254.7
+637,2014,Oats_Production,1198.0
+638,2015,Oats_Production,1299.7
+639,2016,Oats_Production,2265.5
+640,2017,Oats_Production,1227.4
+641,2018,Oats_Production,1134.6
+642,2019,Oats_Production,1142.9
+643,2020,Oats_Production,1898.0
+644,2021,Oats_Production,1734.9
+645,2022,Oats_Production,1587.4
+646,2023,Oats_Production,1021.1
+647,2024,Oats_Production,1200.0
+648,1989,Triticale _Area,91.0
+649,1990,Triticale _Area,104.0
+650,1991,Triticale _Area,101.0
+651,1992,Triticale _Area,122.0
 652,1993,Triticale _Area,129.2
 653,1994,Triticale _Area,153.4
 654,1995,Triticale _Area,221.1
 655,1996,Triticale _Area,346.3
 656,1997,Triticale _Area,366.4
 657,1998,Triticale _Area,385.8
-658,1999,Triticale _Area,358
+658,1999,Triticale _Area,358.0
 659,2000,Triticale _Area,389.4
 660,2001,Triticale _Area,408.9
 661,2002,Triticale _Area,407.6
@@ -680,10 +680,10 @@
 678,2019,Triticale _Area,72.8
 679,2020,Triticale _Area,96.2
 680,2021,Triticale _Area,61.9
-681,2022,Triticale _Area,57
+681,2022,Triticale _Area,57.0
 682,2023,Triticale _Area,53.9
-683,2024,Triticale _Area,52
-684,1989,Triticale _Production,164
+683,2024,Triticale _Area,52.0
+684,1989,Triticale _Production,164.0
 685,1990,Triticale _Production,188.6
 686,1991,Triticale _Production,177.3
 687,1992,Triticale _Production,282.5
@@ -694,24 +694,24 @@
 692,1997,Triticale _Production,632.5
 693,1998,Triticale _Production,706.9
 694,1999,Triticale _Production,764.1
-695,2000,Triticale _Production,841
+695,2000,Triticale _Production,841.0
 696,2001,Triticale _Production,859.7
-697,2002,Triticale _Production,327
+697,2002,Triticale _Production,327.0
 698,2003,Triticale _Production,825.9
 699,2004,Triticale _Production,610.1
 700,2005,Triticale _Production,829.8
 701,2006,Triticale _Production,199.3
-702,2007,Triticale _Production,450
+702,2007,Triticale _Production,450.0
 703,2008,Triticale _Production,362.8
-704,2009,Triticale _Production,545
+704,2009,Triticale _Production,545.0
 705,2010,Triticale _Production,355.1
 706,2011,Triticale _Production,284.6
 707,2012,Triticale _Production,171.2
 708,2013,Triticale _Production,125.6
-709,2014,Triticale _Production,143
+709,2014,Triticale _Production,143.0
 710,2015,Triticale _Production,127.4
 711,2016,Triticale _Production,149.9
-712,2017,Triticale _Production,87
+712,2017,Triticale _Production,87.0
 713,2018,Triticale _Production,59.5
 714,2019,Triticale _Production,76.9
 715,2020,Triticale _Production,170.8
