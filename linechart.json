@@ -1,0 +1,22 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 1000,
+  "height": 400,
+  "data": {
+    "url": "https://raw.githubusercontent.com/MALB008/Visualisation2/refs/heads/main/wintercropdataproccessed.csv",
+    "format": {"type": "csv"}
+  },
+  "transform": [
+    {"filter": "datum.Year >= 2014 && datum.Year <= 2024"},
+    {
+      "filter": "(datum.Category === 'Wheat_Area' || datum.Category === 'Canola_Area' || datum.Category === 'Barley _Area' || datum.Category === 'Chickpeas   _Area' || datum.Category === 'Faba beans  _Area' || datum.Category === 'Field peas  _Area' || datum.Category === 'Lentils  _Area' || datum.Category === 'Lupins  _Area' || datum.Category === 'Triticale _Area' || datum.Category === 'Oats  _Area')"
+    }
+  ],
+  "mark": "line",
+  "encoding": {
+    "y": {"aggregate": "sum", "field": "value", "scale": {"type": "log"}},
+    "x": {"field": "Year"},
+    "color": {"field": "Category"}
+  },
+  "config": {}
+}

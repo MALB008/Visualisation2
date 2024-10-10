@@ -1,0 +1,37 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {"text": {"fontSize": 10}},
+  "hconcat": [
+    {
+      "data": {"values": [{"parameter": "Average Rainfall", "value": 100}]},
+      "mark": "text",
+      "transform": [
+        {"calculate": "datum.parameter + ': ' + datum.value", "as": "label"}
+      ],
+      "encoding": {"text": {"field": "label", "type": "nominal"}},
+      "width": 150,
+      "height": 50
+    },
+    {
+      "data": {"values": [{"parameter": "Average Rainfall", "value": 100}]},
+      "mark": "text",
+      "transform": [
+        {"calculate": "datum.parameter + ': ' + datum.value", "as": "label"}
+      ],
+      "encoding": {"text": {"field": "label", "type": "nominal"}},
+      "width": 150,
+      "height": 50
+    },
+    {
+      "data": {"values": [{"parameter": "Yield", "value": 10}]},
+      "mark": "text",
+      "transform": [
+        {"calculate": "datum.parameter + ': ' + datum.value", "as": "label"}
+      ],
+      "encoding": {"text": {"field": "label", "type": "nominal"}},
+      "width": 150,
+      "height": 50
+    }
+  ],
+  "spacing": 100
+}

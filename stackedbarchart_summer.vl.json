@@ -1,0 +1,22 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 400,
+  "data": {
+    "url": "https://raw.githubusercontent.com/MALB008/Visualisation2/refs/heads/main/summercropsdataproccessed.csv",
+    "format": {"type": "csv"}
+  },
+  "transform": [
+    {"filter": "datum.Year >= 2014 && datum.Year <= 2024"},
+    {
+      "filter": "(datum.Category === 'Grain sorghum _Area' || datum.Category === 'Cottonseed a_Area' || datum.Category === 'Rice_Area' || datum.Category === 'Cotton lint a_Area' || datum.Category === 'Corn (maize)_Area' || datum.Category === 'Soybeans_Area' || datum.Category === 'Sunflower _Area')"
+    }
+  ],
+  "mark": "bar",
+  "encoding": {
+    "x": {"aggregate": "sum", "field": "value"},
+    "y": {"field": "Year", "scale": {"reverse": true}},
+    "color": {"field": "Category"}
+  },
+  "config": {}
+}

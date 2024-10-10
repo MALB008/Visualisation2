@@ -1,0 +1,60 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "view": {
+      "stroke": ""
+    }
+  },
+  "width": 800,
+  "height": 300,
+  "title": "LiveStock Slaughtered '000 000 (millions) ",
+  "params": [
+    {
+      "name": "Year_selection",
+      "value": 2019,
+      "bind": {
+        "input": "range",
+        "min": 2014,
+        "max": 2024,
+        "step": 1,
+        "name": "Year:  "
+      }
+    }
+  ],
+  "data": {
+    "url": "https://raw.githubusercontent.com/MALB008/Visualisation2/refs/heads/main/FinalSlaughterLivestock.csv"
+  },
+  "transform": [
+    {
+      "calculate": "{'Cow': '🐄', 'Sheep': '🐏', 'Pig': '🐖', 'Bull': '🐂'}[datum.Animal]",
+      "as": "emoji"
+    },
+    {
+      "filter": "datum.index == Year_selection"
+    }
+  ],
+  "mark": {
+    "type": "text",
+    "baseline": "middle"
+  },
+  "encoding": {
+    "x": {
+      "field": "Rank",
+      "type": "ordinal",
+      "axis": null
+    },
+    "y": {
+      "field": "Animal",
+      "type": "nominal",
+      "sort": null
+    },
+
+    "text": {
+      "field": "emoji",
+      "type": "nominal"
+    },
+    "size": {
+      "value": 20
+    }
+  }
+}

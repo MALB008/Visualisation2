@@ -1,0 +1,154 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {"text": {"fontSize": 10}},
+  "params": [
+    {
+      "name": "Item_selection",
+      "value": "Maize",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Maize",
+          "Potatoes",
+          "Soybeans",
+          "Wheat",
+          "Rice, paddy",
+          "Sorghum",
+          "Cassava",
+          "Sweet potatoes",
+          "Plantains and others",
+          "Yams"
+        ],
+        "labels": [
+          "Maize",
+          "Potatoes",
+          "Soybeans",
+          "Wheat",
+          "Rice, paddy",
+          "Sorghum",
+          "Cassava",
+          "Sweet potatoes",
+          "Plantains and others",
+          "Yams"
+        ],
+        "name": "Crops: "
+      }
+    }
+  ],
+  "vconcat": [
+    {
+      "hconcat": [
+        {
+          "data": {"values": [{"parameter": "Average Rainfall", "value": 100}]},
+          "mark": "text",
+          "transform": [
+            {"calculate": "datum.parameter + ': ' + datum.value", "as": "label"}
+          ],
+          "encoding": {"text": {"field": "label", "type": "nominal"}},
+          "width": 150,
+          "height": 50
+        },
+        {
+          "data": {
+            "values": [{"parameter": "Average Temperature", "value": 36}]
+          },
+          "mark": "text",
+          "transform": [
+            {"calculate": "datum.parameter + ': ' + datum.value", "as": "label"}
+          ],
+          "encoding": {"text": {"field": "label", "type": "nominal"}},
+          "width": 150,
+          "height": 50
+        },
+        {
+          "data": {"values": [{"parameter": "Yield", "value": 10}]},
+          "mark": "text",
+          "transform": [
+            {"calculate": "datum.parameter + ': ' + datum.value", "as": "label"}
+          ],
+          "encoding": {"text": {"field": "label", "type": "nominal"}},
+          "width": 150,
+          "height": 50
+        }
+      ],
+      "spacing": 100
+    },
+    {
+      "title": "Global Crop Yield",
+      "width": 800,
+      "height": 400,
+      "projection": {"type": "equalEarth"},
+      "layer": [
+        {
+          "data": {
+            "url": "https://raw.githubusercontent.com/MALB008/Visualisation2/refs/heads/main/worldmap_graticules_boundingbox.json",
+            "format": {
+              "type": "topojson",
+              "feature": "ne_110m_admin_0_countries"
+            }
+          },
+          "transform": [
+            {
+              "calculate": "'Data is not available in ' + datum.properties.NAME",
+              "as": "note"
+            }
+          ],
+          "mark": {
+            "type": "geoshape",
+            "fill": "#ddd",
+            "stroke": "white",
+            "strokeWidth": 1
+          },
+          "encoding": {"tooltip": {"field": "note"}}
+        },
+        {
+          "data": {
+            "url": "https://raw.githubusercontent.com/MALB008/Visualisation2/refs/heads/main/yield_2013.csv"
+          },
+          "transform": [
+            {
+              "lookup": "Area",
+              "from": {
+                "data": {
+                  "url": "https://raw.githubusercontent.com/MALB008/Visualisation2/refs/heads/main/worldmap_graticules_boundingbox.json",
+                  "format": {
+                    "type": "topojson",
+                    "feature": "ne_110m_admin_0_countries"
+                  }
+                },
+                "key": "properties.NAME"
+              },
+              "as": "geo"
+            },
+            {"calculate": "'hg/ha_yield'", "as": "hectograms per hectare"},
+            {"filter": "datum.Item == Item_selection"}
+          ],
+          "mark": {"type": "geoshape", "stroke": "#fff", "strokeWidth": 0.5},
+          "encoding": {
+            "shape": {"field": "geo", "type": "geojson"},
+            "color": {
+              "field": "hg/ha_yield",
+              "type": "quantitative",
+              "scale": {"scheme": "reds"},
+              "legend": {"format": ".2s"}
+            },
+            "tooltip": [
+              {"field": "Area", "type": "nominal", "title": "Country"},
+              {
+                "field": "avg_temp",
+                "type": "quantitative",
+                "title": "Average Temperature (°C)"
+              },
+              {
+                "field": "average_rain_fall_mm_per_year",
+                "type": "quantitative",
+                "title": "Average Rainfall (mm/year)"
+              }
+            ]
+          }
+        }
+      ],
+      "config": {}
+    }
+  ]
+}
