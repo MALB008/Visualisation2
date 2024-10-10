@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+    <script src="vega_lite_vis.js"></script>
+    <title>First Vega-Lite graph</title>
+    <style>
+        /* Full-page grid layout */
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #ededed;
+            font-family: Arial, sans-serif;
+            display: grid;
+            grid-template-columns: 1fr 1fr; /* Two equal columns */
+            grid-template-rows: auto 1fr 1fr; /* Auto height for heading, equal height for quadrants */
+            grid-template-areas: 
+                "header header"
+                "top-left top-right"
+                "bottom-left bottom-right"; /* Divide the layout into 4 quadrants */
+            height: 100vh;
+        }
+
+        /* For styling the content within each quadrant */
+        .header {
+            grid-area: header;
+            padding: 20px;
+            background-color: #fff;
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .top-left {
+            grid-area: top-left;
+            padding: 10px 15px; /* Smaller padding for smaller divs */
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin: 10px;
+        }
+
+        .top-right {
+            grid-area: top-right;
+            padding: 10px 15px; /* Smaller padding for smaller divs */
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin: 10px;
+        }
+
+        .bottom-left {
+            grid-area: bottom-left;
+            padding: 10px 15px; /* Smaller padding for smaller divs */
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin: 10px;
+        }
+
+        .bottom-right {
+            grid-area: bottom-right;
+            padding: 10px 15px; /* Smaller padding for smaller divs */
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin: 10px;
+        }
+
+        .paragraphs {
+            padding: 10px 20px;
+            margin: 10px 0;
+        }
+
+        /* Style for the divs like choropleth, isotype, and stacked bars */
+        #choropleth {
+            margin-top: 0px;
+            padding: 10px 30px;
+        }
+
+        #isotype {
+            margin: 10px 0;
+        }
+
+        #stackedbarsummer, #stackedbarwinter {
+            width: 100%;
+            margin-bottom: 10px;
+            padding: 0px;
+        }
+
+        /* Optional styling for responsive behavior */
+        @media (max-width: 768px) {
+            body {
+                grid-template-columns: 1fr; /* Stacks into one column on small screens */
+                grid-template-rows: auto;   /* Adjust rows automatically */
+            }
+
+            .top-left, .top-right, .bottom-left, .bottom-right {
+                margin-bottom: 20px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="header">
+        Australia’s Farming in Focus: A Snapshot of Farming Today
+    </div>
+
+    <div class="top-left">
+        <div id="choropleth">
+            <!-- Your Choropleth visualization will go here -->
+        </div>
+    </div>
+
+    <div class="top-right">
+        <div id="isotype">
+            <!-- Your Isotype visualization will go here -->
+        </div>
+        <p>
+            In Australia, the livestock industry is a significant part of the agricultural sector, with millions of animals slaughtered annually to meet both domestic and international demand. The primary livestock processed includes cattle, sheep, and pigs, with beef and lamb being particularly prominent in exports. Australia is one of the world's leading exporters of beef and lamb, and the slaughtering process is tightly regulated to ensure high standards of animal welfare and food safety. This industry not only supports the economy but also provides jobs and contributes to rural and regional communities across the country.
+        </p>
+    </div>
+
+    <div class="bottom-left">
+        <div id="stackedbarsummer">
+            <!-- Summer stacked bar visualization -->
+        </div>
+        <div id="stackedbarwinter">
+            <!-- Winter stacked bar visualization -->
+        </div>
+    </div>
+
+    <div class="bottom-right">
+        <!-- Placeholder for content -->
+    </div>
+
+</body>
+
+</html>
